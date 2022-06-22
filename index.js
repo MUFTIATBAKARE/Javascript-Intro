@@ -1,0 +1,1 @@
+alert("Name: Muftiat Bakare, Height: 5ft0, Country: Nigeria");
